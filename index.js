@@ -8,7 +8,7 @@ ReactDOM.render(
   (
     <div>
       <RegistrationForm />
-      <Webpage />
+      // <Webpage />
     </div>
   ),
   document.getElementById('main')
